@@ -1,0 +1,16 @@
+# Simulation artifacts
+work/
+*.wlf
+*.vcd
+*.fst
+*.fsdb
+*.ucdb
+*.log
+transcript
+vsim.wlf
+xsim.dir/
+*.jou
+*.pb
+*.wdb
+*.str
+.DS_Store
